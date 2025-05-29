@@ -1,4 +1,3 @@
-```markdown
 # Android Step Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -117,4 +116,3 @@ Before submitting a pull request, please ensure that your code:
 ## License Information
 
 This repository is licensed under the [MIT License](LICENSE).  See the `LICENSE` file for more information.
-```
